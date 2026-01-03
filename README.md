@@ -1,8 +1,8 @@
-# DODGE THE BLOCKS
+# Dodge The Blocks
 
 ## Overview
 
-**DODGE THE BLOCKS** is a 2D reflex-based game developed in Unity. You control a platform at the bottom of the screen and dodge falling blocks. As time passes, the game speeds up, increasing the difficulty. The game features a score system to track your survival time and performance.
+**Dodge The Blocks** is a 2D reflex-based game developed in Unity. You control a platform at the bottom of the screen and dodge falling blocks. As time passes, the game speeds up, increasing the difficulty. The game features a score system to track your survival time and performance.
 
 ## Features
 
