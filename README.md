@@ -4,7 +4,7 @@
 
 **Blocc Dodge** is a 3D obstacle-avoidance game developed in Unity. You control a player character and navigate through progressively difficult levels by dodging obstacles and reaching the end goal.
 
-Play it online here: [Blocc Dodge](https://peterzma.github.io/block-dodge/)
+Play it online here: [Blocc Dodge](https://peterzma.github.io/blocc-dodge/)
 
 ## Features
 
