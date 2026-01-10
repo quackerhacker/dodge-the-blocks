@@ -1,10 +1,10 @@
-# Blocc Dodge
+# Blocc Run
 
 ## Overview
 
-**Blocc Dodge** is a 3D obstacle-avoidance game developed in Unity. You control a player character and navigate through progressively difficult levels by dodging obstacles and reaching the end goal.
+**Blocc Run** is a 3D obstacle-avoidance game developed in Unity. You control a player character and navigate through progressively difficult levels by dodging obstacles and reaching the end goal.
 
-Play it online here: [Blocc Dodge](https://peterzma.github.io/blocc-dodge/)
+Play it online here: [Blocc Dodge](https://peterzma.github.io/blocc-run/)
 
 ## Features
 
@@ -26,7 +26,7 @@ Play it online here: [Blocc Dodge](https://peterzma.github.io/blocc-dodge/)
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/quackerhacker/block-dodge.git
+   git clone https://github.com/quackerhacker/blocc-run.git
    ```
 
 2. Open the project:
