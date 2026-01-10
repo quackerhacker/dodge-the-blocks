@@ -26,7 +26,7 @@ Play it online here: [Blocc Run](https://peterzma.github.io/blocc-run/)
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/quackerhacker/blocc-run.git
+   git clone https://github.com/peterzma/blocc-run.git
    ```
 
 2. Open the project:
