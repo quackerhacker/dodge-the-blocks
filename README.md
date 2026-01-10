@@ -4,6 +4,8 @@
 
 **Dodge The Blocks** is a 2D reflex-based game developed in Unity. You control a platform at the bottom of the screen and dodge falling blocks. As time passes, the game speeds up, increasing the difficulty. The game features a score system to track your survival time and performance.
 
+Play it online here: [Block Dodge](https://peterzma.github.io/dodge-the-blocks/)
+
 ## Features
 
 * 2D gameplay with simple, clear visuals
